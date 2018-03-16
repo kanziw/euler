@@ -1,0 +1,25 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanziw/euler.git"
+  },
+  "keywords": [
+    "euler"
+  ],
+  "author": "kanziw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanziw/euler/issues"
+  },
+  "homepage": "https://github.com/kanziw/euler#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
